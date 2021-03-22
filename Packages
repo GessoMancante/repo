@@ -15,7 +15,7 @@ SHA1: d4d36d2b5d1877963c4ca4b2de952640105135bc
 SHA256: d5a225612d6fcacf886a67760db19932e908d90c41a37f4d046699ca9a2a61bc
 Depiction: https://claudiopani.github.io/repo/packageInfo/AltDeamon.html
 
-Package: com.mattclarke.reprovisionReborn
+Package: jp.soh.reprovisiond
 Section: System
 Maintainer: Soh Satoh
 Depends: firmware (>=9.0 <=14)
