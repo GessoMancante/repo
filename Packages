@@ -18,13 +18,13 @@ Depiction: https://claudiopani.github.io/repo/packageInfo/AltDeamon.html
 Package: jp.soh.reprovisiond
 Section: System
 Maintainer: Soh Satoh
-Depends: firmware (>=9.0 <=14)
+Depends: firmware (>=9.0)
 Architecture: iphoneos-arm
 Version: 0.6.1
 Filename: https://claudiopani.github.io/repo/debs/ReprovisionReborn.deb
 Size: 14666572
 Description: Provisioning is undertaken via the user's Apple ID credentials, and supports both paid and free development accounts.
-Name: AltDaemon
+Name: Reprovision Reborn
 Icon: https://claudiopani.github.io/repo/icons/ReprovisionReborn.png
 Author: Soh Satoh, Matt Clarke
 MD5sum: 04fcba9dbc28533e6ef63655f72bd88f
