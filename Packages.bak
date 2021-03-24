@@ -6,6 +6,7 @@ Maintainer: Riley Testut
 Depends: firmware (>=12.2)
 Filename: https://claudiopani.github.io/repo/debs/AltDaemon.deb
 Size: 597622
+Icon: https://claudiopani.github.io/repo/icons/AltDaemon.png
 MD5sum: d83660c2d5119ac6ecce72236b27cfae4
 SHA1: d353091406336b5370f630bc530a5313e7b6a6e7
 SHA256: 9bcdde6297f82297367cf1ef7bc88e1c8c97fec55c8cc4bfecbe68a23854dffe
@@ -23,6 +24,7 @@ Section: System
 Maintainer: Soh Satoh
 Depends: firmware (>=9.0)
 Filename: https://claudiopani.github.io/repo/debs/ReprovisionReborn.deb
+Icon: https://claudiopani.github.io/repo/icons/ReprovisionReborn.png
 Size: 14666572
 MD5sum: 04fcba9dbc28533e6ef63655f72bd88f
 SHA1: c77af8f9c3633e235a29718d8ebeffb4cc853f25
